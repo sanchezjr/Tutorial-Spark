@@ -1,18 +1,27 @@
-# Título del Proyecto
+#  Apache Spark 2 with Scala 
 
-_Acá va un párrafo que describa lo que es el proyecto_
+First steps with Apache Spark 2 and Scala. 
 
-## Comenzando 🚀
+## Starting 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+In this tutorial a series of practical examples have been carried out related to:
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+DataFrame SQL Query.
+Spark SQL
+DataFrame Statistics
+DataFrame Operations
 
 
-### Pre-requisitos 📋
+### Prerequisites 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+The project has been developed with the Intellij IDEA IDE.
 
-```
-Da un ejemplo
-```
+Versions used:
+
+SDK: 1.8
+SBT: 0.13.8
+Scala: 2.11.8
+
+## Source ✒️
+
+http://allaboutscala.com/
